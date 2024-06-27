@@ -13,7 +13,7 @@ Instructions to establish mysql connection with our project:
 4. The datatype of Reference_No should be INT, and the datatype of the rest of the attributes should be VARCHAR(25).
 5. The column names/attributes while creating the database table in the workbench should be same as the attributes written in the update query, i.e. "update hospital set Nameoftablet=%s,Dose=%s,Issuedate=%s,Expdate=%s,Patientname=%s where Reference_No=%s", at line number 158 of our code.
    This can be checked in the delete query also, i.e. "delete from hospital where Reference_No=%s", at line number 201 of our code.
-6. After performing all these steps, your mysql connection will be set up.
+6. After performing all these steps, your MySQL connection will be set up.
 
 
 Instructions to run our project code:
