@@ -1,4 +1,4 @@
-TOPIC: 	HOSPITAL MANAGEMENT SYSTEM
+TOPIC: 	MedBridge Control
 
 The following requirements must be present/installed in order to run our python project:
 1. Tkinter module: It is used to design GUI that we have prepared in our project. 
