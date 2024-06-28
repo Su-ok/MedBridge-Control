@@ -1,11 +1,3 @@
-''' 
-    Group Members are:
-    20BAI10015 -> Ashish Vats
-    20BAI10268 -> Palak Garg
-    20BAI10372 -> Deepak Kumar
-    20BAI10373 -> Suchir Okram 
-'''
-
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
