@@ -1,6 +1,6 @@
 ## Messed the whole process of changing branch from Master to Main ##
 
-**Same project is available with the name Hospital-Manager on my profile's repo section**
+Same project is available with the name [Hospital-Manager](https://github.com/Su-ok/Hospital-Manager) on my profile's repo section
 
 ### TOPIC: MedBridge Control
 
@@ -27,3 +27,5 @@
    - Delete: Deletes a row based on Reference_No.
    - Clear: Clears all entries.
    - Exit: Prompts to exit the window.
+
+## Preferrably don't refer to this repo
